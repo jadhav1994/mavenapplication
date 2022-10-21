@@ -8,6 +8,7 @@ class MavenapplicationApplicationTests {
 
 	@Test
 	void contextLoads() {
+System.out.println("this is my new maven application ");
 	}
 
 }
